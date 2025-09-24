@@ -1,6 +1,6 @@
 {
-  "version": "1.2",
+  "version": "1.0.0",
   "windows_url": "https://github.com/TU_USUARIO/TU_REPO/releases/latest/download/Juego_Windows.zip",
-  "android_url": "https://github.com/TU_USUARIO/TU_REPO/releases/latest/download/Juego_Android.apk",
+  "android_url": "https://github.com/Zebas22/z-world/releases/download/untagged-276516d9c7926a24e273/zworld.apk",
   "changelog": "• Se arreglaron bugs\n• Se agregaron nuevos niveles\n• Mejoras de rendimiento"
 }
