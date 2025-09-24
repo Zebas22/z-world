@@ -1,0 +1,6 @@
+{
+  "version": "1.2",
+  "windows_url": "https://github.com/TU_USUARIO/TU_REPO/releases/latest/download/Juego_Windows.zip",
+  "android_url": "https://github.com/TU_USUARIO/TU_REPO/releases/latest/download/Juego_Android.apk",
+  "changelog": "• Se arreglaron bugs\n• Se agregaron nuevos niveles\n• Mejoras de rendimiento"
+}
